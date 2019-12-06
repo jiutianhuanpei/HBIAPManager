@@ -17,8 +17,7 @@ Pod::Spec.new do |spec|
   spec.author       = { "jiutianhuanpei" => "shenhongbang@163.com" }
 
 
-  # spec.platform     = :ios
-  # spec.platform     = :ios, "5.0"
+  spec.platform     = :ios, "3.0"
 
 
 
